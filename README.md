@@ -9,7 +9,7 @@ I am a Full Stack Developer who recently graduated from App Academy 👩‍💻.
 
 ```
 CONST DIANA = {
-  pronouns: "She" | "Her",
+  pronouns: ["She" | "Her"],
   backend: ["Javascript", "Nodejs", "ExpressJs", "Python", "Flask"],
   frontend: ["HTML5", "Javascript", "React", "CSS3", "Python"],
   database: ["Postgresql", "SQL", "SQLite", "SQLAlchemy"],
