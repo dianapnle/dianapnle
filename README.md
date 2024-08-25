@@ -14,7 +14,7 @@ CONST DIANA = {
   frontend: ["HTML5", "Javascript", "React", "CSS3", "Python"],
   database: ["Postgresql", "SQL", "SQLite", "SQLAlchemy"],
   cloudServer: ["AWS", "Render"],
-  currentFocus: ['Open source']
+  currentFocus: ['OpenSource']
 }
 
 ```
