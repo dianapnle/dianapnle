@@ -1,4 +1,4 @@
-## Hi there I'm Diana Le 👋
+## Hi there 👋 I'm Diana Le 
 
 I currently am in San Diego, California.
 
