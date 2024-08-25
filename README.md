@@ -13,7 +13,7 @@ CONST DIANA = {
   backend: ["Javascript", "Nodejs", "ExpressJs", "Python", "Flask"],
   frontend: ["HTML5", "Javascript", "React", "CSS3", "Python"],
   database: ["Postgresql", "SQL", "SQLite", "SQLAlchemy"],
-  "cloud-server": ["AWS", "Render"],
+  cloudServer: ["AWS", "Render"],
   currentFocus: ['Open source']
 }
 
